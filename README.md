@@ -5,5 +5,6 @@
 >🐬 장종원 ([jangjongwon](https://github.com/jangjongwon))  
 >🦖 조우영 ([Jodndud](https://github.com/Jodndud))  
 
-![이미지](etc/1.jpg)
-#### *2025-01-09 ~*
+![이미지](etc/1.jpg)  
+  
+*2025-01-09 ~*
