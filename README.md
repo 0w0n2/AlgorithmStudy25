@@ -5,6 +5,7 @@
 >🐬 장종원 ([jangjongwon](https://github.com/jangjongwon))  
 >🦖 조우영 ([Jodndud](https://github.com/Jodndud))  
 
+   
 ![이미지](etc/1.jpg)  
   
-_2025-01-09 ~_
+스터디 기간 : 2025-01-09 ~
